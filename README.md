@@ -17,5 +17,5 @@ List of Front end Web sites made by me
 
 * Web application game to guess colors based on RGB values.
 * https://github.com/deepanshululla/rgb-color-guess
-* Applicattion hosted at http://www.deepanshululla.com/patatap-clone
+* Applicattion hosted at http://www.deepanshululla.com/rgb-color-guess
 
